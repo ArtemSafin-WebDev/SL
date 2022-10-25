@@ -383,6 +383,7 @@ h1.product-intro__main-title {
   justify-content: stretch;
   gap: 0;
   margin: 2rem auto 0;
+  transform: none !important;
 
   .swiper-pagination-bullet-active {
     width: 0.8rem;
